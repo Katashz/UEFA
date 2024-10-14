@@ -1,1 +1,5 @@
-this is what a want to creata a merge conflict over.
+<<<<<<< HEAD
+this is what a want to creat1 a merge conflict over.
+=======
+this is what a want to creat1 a merge conflict over.
+>>>>>>> 837b63154f6e2f74090365b195e0bbeb38d50a47
