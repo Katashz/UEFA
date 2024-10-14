@@ -1,1 +1,1 @@
-this is what a want to creat a merge conflict over.
+this is what a want to creati a merge conflict over.
